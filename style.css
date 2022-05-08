@@ -7,9 +7,13 @@ img{
     padding: 15px;
 }
 button{
-    background-color: darkslategray;
+    background-color: rgb(255, 255, 255);
     box-shadow: inset 1px 1px 1px #0000ff;
     border: 3px solid #0000ff;
     width: 700px;
     font-size: 25px;
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
 }
